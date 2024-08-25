@@ -1,0 +1,15 @@
+streamlit
+opencv-python-headless
+numpy
+cmake
+dlib-bin
+pillow
+tensorflow
+tensorflow_hub
+matplotlib
+Pillow
+scipy
+keras
+collections-extended
+scikit-image
+tensorflow_hub
